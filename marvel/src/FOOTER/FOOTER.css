@@ -1,61 +1,60 @@
 .custom-shape-divider-bottom-1691090866 {
-    position: static;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
-    transform: rotate(180deg);
-    margin-top: 100px;
+  position: static;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+  margin-top: 100px;
 }
 
 .custom-shape-divider-bottom-1691090866 svg {
-    position: relative;
-    display: block;
-    width: calc(100% + 1.3px);
-    height: 96px;
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 96px;
 }
 
 .custom-shape-divider-bottom-1691090866 .shape-fill {
-    fill: #000000;
+  fill: #000000;
 }
-.container-footer{
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: row;
-   height: 13.75rem;
-   width: 100%;
-    background-color: #000000;
+.container-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  height: 13.75rem;
+  width: 100%;
+  background-color: #000000;
 }
-.menu-bar2{
-    transform: rotate(180deg);
- width: 25%;
-    display: flex;
-    padding: .625rem;
-    flex-direction: row;
-justify-content: space-between;
-    align-items: center;
+.menu-bar2 {
+  transform: rotate(180deg);
+  width: 25%;
+  display: flex;
+  padding: 0.625rem;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
-ul{
-    list-style: none;
+ul {
+  list-style: none;
 }
-.nav-link2{
-margin: .625rem;
-    text-decoration: none;
-    color: white;
-font-size: .625rem;
-font-size: large;
+.nav-link2 {
+  margin: 0.625rem;
+  text-decoration: none;
+  color: white;
+  font-size: 0.625rem;
+  font-size: large;
 }
-.nav-link2:hover{
-    color:#EECD5C;
-    opacity: 1;
-    border: solid white 2px;
-    scale: 1.1;
-    transition: 0.4s;
+.nav-link2:hover {
+  color: #eecd5c;
+  opacity: 1;
+  border: solid white 2px;
+  scale: 1.1;
+  transition: 0.4s;
 }
-.logo{
-    position: relative;
-
-    transform: rotate(180deg);
+.logo {
+  position: relative;
+  transform: rotate(180deg);
 }

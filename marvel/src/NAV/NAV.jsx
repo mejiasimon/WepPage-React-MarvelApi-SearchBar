@@ -9,7 +9,7 @@ export function NAV(){
     return(
         <>
         <div className="container-menu">
-       <ul class="menu-bar">
+       <ul className="menu-bar">
                <li><Link className="nav-link" to="/">Home</Link></li>
                <li><Link className="nav-link" to="/">Comics</Link></li>
                <li><Link className="nav-link" to="/:id">Characters</Link></li>

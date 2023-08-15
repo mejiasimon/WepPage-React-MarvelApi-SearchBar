@@ -9,7 +9,7 @@ export function Rutas(){
    <NAV/>
    <Routes>
 <Route path="/" element={<HOME />} />
-<Route path="/character" element={<CHARACTERS/>} />
+<Route path="/:id" element={<CHARACTERS/>} />
 </Routes>
 <FOOTER/>
    </>

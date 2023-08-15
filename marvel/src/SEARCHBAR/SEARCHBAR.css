@@ -1,0 +1,44 @@
+.searchbar{
+    background: rgba(0,0,0,0.5);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(0,0,0,0.25);
+    width: 31.25rem;
+    padding:1.25rem;
+    border-radius: 21px 0px 0px 21px;
+    color: white;
+}
+button{
+    display: flex;
+justify-content: center;
+align-items: center;
+height:57px;
+width: 70px;
+background: rgba(0,0,0,0.5);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(10px);
+border: 1px solid rgba(0,0,0,0.25);
+border-radius: 0px 21px 21px 0px;
+}
+button:hover{
+border: solid white .0625rem;
+}
+.container_bar{
+    width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 80px;
+}
+
+.material-symbols-outlined{
+    color: white;
+    
+}
+.container-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+}
