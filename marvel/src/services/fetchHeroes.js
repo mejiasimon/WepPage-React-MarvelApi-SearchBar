@@ -17,8 +17,8 @@ let url= `${HeroUrl}?ts=${ts}&apikey=${apiKey}&hash=${hash}&nameStartsWith=${val
 try{
     let response=await fetch(url)
     let data=await response.json()
-    console.log(data)
-    return(data)
+    console.log(data.data.results)
+    return(data.data.results)
 }
 catch(err){
 console.log(err)

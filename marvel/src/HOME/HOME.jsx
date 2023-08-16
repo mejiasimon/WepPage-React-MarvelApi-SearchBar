@@ -40,15 +40,15 @@ export function HOME() {
         <div className="information">
           <div className="container-introduction wow animate__animated animate__backInRight">
             <p>
-              Marvelpedia es la plataforma definitiva para los fanáticos del
-              universo de Marvel. Como una completa base de datos de cómics y
-              personajes, nuestro sitio web está diseñado para satisfacer todas
-              tus necesidades de información sobre el vasto y emocionante mundo
-              de Marvel. En Marvelpedia, encontrarás una extensa colección de
-              cómics, desde las icónicas historias clásicas hasta las últimas
-              publicaciones. Puedes buscar cómics por título, arco argumental,
-              personajes destacados, equipo creativo y más, lo que te permitirá
-              sumergirte en las aventuras de tus héroes y villanos favoritos
+              Marvelpedia is the ultimate platform for fans of the Marvel
+              universe. As a comprehensive database of comics and characters,
+              our website is designed to meet all of your information needs
+              about the vast and exciting world of Marvel. At Marvelpedia,
+              you'll find an extensive collection of comics, from the iconic
+              classic stories to the latest issues. You can search for comics by
+              title, story arc, featured characters, creative team, and more,
+              allowing you to immerse yourself in the adventures of your
+              favorite heroes and villains
             </p>
             <img
               className="img-introduction"
@@ -59,14 +59,14 @@ export function HOME() {
 
           <div className="container-introduction2 wow animate__animated animate__backInLeft ">
             <p>
-              Además, nuestra base de datos de personajes es una mina de oro de
-              información. Aquí, podrás acceder a perfiles detallados de todos
-              los personajes del universo Marvel, desde los famosos Vengadores y
-              los mutantes de X-Men hasta los formidables enemigos de Spider-Man
-              y los Guardianes de la Galaxia. Cada perfil incluye datos
-              esenciales sobre el personaje, como su historia de origen, poderes
-              y habilidades, aliados y enemigos, y sus momentos más destacados
-              en el mundo del cómic.
+            Also, our character database is a gold mine of
+              information. Here, you can access detailed profiles of all
+              characters from the Marvel universe, from the famous Avengers and
+              the mutants of X-Men to the formidable enemies of Spider-Man
+              and the Guardians of the Galaxy. Each profile includes data
+              essentials about the character, such as his origin story, powers
+              and abilities, allies and enemies, and their highlights
+              in the world of comics.
             </p>
             <img
               className="img-introduction"
