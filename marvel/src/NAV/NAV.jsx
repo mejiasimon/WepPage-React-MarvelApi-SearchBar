@@ -13,7 +13,7 @@ export function NAV(){
         <li><a href="https://www.marvel.com"><img className="logo2" src="../public/img/pngwing.com.png" alt="" /></a></li>
                <li><Link className="nav-link" to="/">Home</Link></li>
                <li><Link className="nav-link" to="/">Comics</Link></li>
-               <li><Link className="nav-link" to="/:id">Characters</Link></li>
+               <li><Link className="nav-link" to="/characters">Characters</Link></li>
     </ul>
         </div>
         </>

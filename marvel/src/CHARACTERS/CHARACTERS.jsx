@@ -1,5 +1,6 @@
 import '../CHARACTERS/CHARACTERS.css'
 import '../CHARACTERS/CARD.css'
+import { Link } from 'react-router-dom'
 import { SEARCHBAR } from '../SEARCHBAR/SEARCHBAR'
 import { useState} from 'react'
 const IMAGE_SIZE="portrait_fantastic"
@@ -20,7 +21,10 @@ export function CHARACTERS (){
                   <span>About</span>
                   <p className="info">{character.name}</p>
                   <p className="info">{character.results}</p>
+                  <Link to={`/${character.id}`}>
                   <button>more</button>
+                  </Link>
+
                 </div>
                 
                         </>
