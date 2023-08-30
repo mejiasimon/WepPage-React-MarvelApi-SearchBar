@@ -1,3 +1,7 @@
+footer{
+  position: static;
+}
+
 .custom-shape-divider-bottom-1691090866 {
   position: static;
   bottom: 0;
@@ -6,7 +10,7 @@
   overflow: hidden;
   line-height: 0;
   transform: rotate(180deg);
-  margin-top: 100px;
+margin-top:100px;
 }
 
 .custom-shape-divider-bottom-1691090866 svg {
@@ -57,4 +61,9 @@ ul {
 .logo {
   position: relative;
   transform: rotate(180deg);
+}
+.container-footer2{
+  width: 100%;
+position: relative;
+bottom: 0;
 }
