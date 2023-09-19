@@ -3,6 +3,7 @@ export function FOOTER() {
   return (
     <>
       <footer>
+        <div className="container-footer2">
         <div className="custom-shape-divider-bottom-1691090866">
           <div className="container-footer">
             <div>
@@ -62,6 +63,7 @@ export function FOOTER() {
               className="shape-fill"
             ></path>
           </svg>
+        </div>
         </div>
       </footer>
     </>
