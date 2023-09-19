@@ -11,7 +11,6 @@ export function CHARACTERS (){
             <>
                   <SEARCHBAR setter={setcharacters}/>
                   <div className="container-characters">
-                   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     {
        
             characters.map(function(character){
@@ -25,7 +24,9 @@ export function CHARACTERS (){
                   <Link to={`/${character.id}`}>
                   <button>more</button>
                   </Link>
+
                 </div>
+                
                         </>
                     )
                 })
