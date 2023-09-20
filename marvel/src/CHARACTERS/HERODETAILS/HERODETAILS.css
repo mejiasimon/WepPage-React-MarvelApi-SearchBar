@@ -46,6 +46,7 @@ h1{
 
 
 .button-50 {
+
   appearance: button;
   background-color: #000;
   background-image: none;
@@ -60,7 +61,7 @@ h1{
   font-size: 14px;
   font-weight: 400;
   line-height: 20px;
-  margin: 0 5px 10px 0;
+  margin: 1.25rem .3125rem .625rem 0rem;
   overflow: visible;
   padding: 12px 40px;
   text-align: center;
