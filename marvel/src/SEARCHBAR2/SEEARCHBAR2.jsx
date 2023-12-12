@@ -1,7 +1,7 @@
 
 import '../SEARCHBAR/SEARCHBAR.css'
 import { useRef } from 'react';
-import { fetchComics } from '../services/fetchComics.js';
+import { fetchComics } from '../services/fetchComics';
 export function SEARCHBAR2({setter}){
 let input=useRef("")
 const handleclick=async(e)=>{
