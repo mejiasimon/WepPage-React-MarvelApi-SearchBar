@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import '../SEARCHBAR/SEARCHBAR.css'
-import { fetchHeroes } from '../services/fetchheroes';
+import { fetchHeroes } from '../services/fetchheroes.js';
 export function SEARCHBAR({setter}){
     let input=useRef("");
     const handleclick=async(e)=>{
